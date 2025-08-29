@@ -22,7 +22,6 @@ body {
 }
 
 .flipbook .hard {
-/*    background: #c0392b !important;*/
     background: #ec0000 !important;
     color: #fff;
     font-weight: bold;
@@ -56,6 +55,7 @@ body {
 	font-size: 14px;
     margin-bottom: 10px;
 }
+
 
 
 
